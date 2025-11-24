@@ -29,12 +29,12 @@ Ser referência nacional no desenvolvimento de sistemas inteligentes para o merc
 
 | Membro | Função |
 |--------|--------|
-| Nome do Membro 1 | Gerente de Projeto |
-| Nome do Membro 2 | Desenvolvedor Backend |
-| Nome do Membro 3 | Desenvolvedor Frontend |
-| Nome do Membro 4 | Designer UX/UI |
-| Nome do Membro 5 | QA / Testes |
-| Nome do Membro 6 | Analista de Requisitos |
+| Ana Hillary Barbosa Rodrigues Pessoa | Gerente de Projeto |
+| Francisca Mariane Sousa da Silva | Desenvolvedor Backend |
+| José Hadriel Miranda dos Santos| Desenvolvedor Frontend |
+| Vinicius Rielmison Rocha De Sousa| Designer UX/UI |
+| Davi Mendes Medeiros | QA / Testes |
+
 
 ---
 
@@ -55,7 +55,7 @@ Autenticação segura com controle de acesso a áreas restritas do sistema.
 ---
 
 # 📬 Contato
-📧 **E-mail profissional:** contato@traveltech.com.br  
+📧 **E-mail profissional:** agencia.flywaretech@gmail.com  
 🌐 **Site (opcional):** https://seudominio.com
 
 ---
