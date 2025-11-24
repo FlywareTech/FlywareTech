@@ -1,4 +1,4 @@
-<a id="inicio"></a>
+
 # 🌍✈️ **Agência FlywareTech**
 
 <p align="center">
@@ -7,7 +7,6 @@
 
 ## 📚 Sumário
 
-- [Agência FlywareTech](#inicio)
 - [Missão](#missao)
 - [Visão](#visao)
 - [Valores](#valores)
