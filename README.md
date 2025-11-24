@@ -17,15 +17,19 @@ Ser referência nacional no desenvolvimento de sistemas inteligentes para o merc
 ---
 
 ## ❤️ Valores
-- 🌟 **Inovação:** Criamos soluções modernas e tecnológicas.  
-- 🤝 **Colaboração:** Trabalhamos em equipe sempre.  
-- 🔒 **Responsabilidade:** Priorizamos segurança e confiabilidade.  
-- 🎒 **Experiência do Usuário:** Colocamos o viajante no centro das decisões.  
-- 🌍 **Sustentabilidade:** Incentivamos práticas conscientes no turismo.
+
+- 🌍 **Acessibilidade da Informação:** Tornar simples e rápido o acesso a dados importantes para o viajante.  
+- 💱 **Precisão e Confiabilidade:** Garantir conversão de moedas atualizada e confiável para decisões financeiras seguras.  
+- 🤝 **Transparência:** Oferecer informações claras, completas e sem complicações ao cliente.  
+- 📞 **Comunicação Eficiente:** Facilitar o contato com a agência e parceiros, fortalecendo a confiança do usuário.  
+- ✨ **Experiência do Usuário:** Criar uma plataforma agradável, intuitiva e fácil de usar.  
+- 🔐 **Segurança dos Dados:** Proteger informações pessoais e contatos de forma responsável.  
+- 🚀 **Agilidade:** Fornecer respostas rápidas, ferramentas úteis e suporte prático.  
+- 👨‍💻 **Inovação Prática:** Utilizar tecnologia para resolver problemas reais do viajante.
 
 ---
 
-# 🧑‍💻 Equipe TravelTech Solutions
+# 🖥️ Equipe TravelTech Solutions
 
 | Membro | Função |
 |--------|--------|
@@ -40,8 +44,8 @@ Ser referência nacional no desenvolvimento de sistemas inteligentes para o merc
 
 # 🧭 Projetos da Empresa
 
-### ✈️ **Portal da Agência de Viagens**  
-Interface completa com destinos, ofertas, promoções e informações turísticas.
+### ✈️ **Portal da Agência de Viagens** - 🔐 **Página de Login**  
+Autenticação segura com controle de acesso a áreas restritas do sistema.
 
 ### 💱 **Conversor de Moedas**  
 Ferramenta integrada para conversão de moedas internacionais em tempo real.
@@ -49,14 +53,12 @@ Ferramenta integrada para conversão de moedas internacionais em tempo real.
 ### 📇 **Lista de Contatos**  
 Área administrativa para cadastro e gerenciamento de contatos de clientes.
 
-### 🔐 **Página de Login**  
-Autenticação segura com controle de acesso a áreas restritas do sistema.
+
 
 ---
 
 # 📬 Contato
 📧 **E-mail profissional:** agencia.flywaretech@gmail.com  
-🌐 **Site (opcional):** https://seudominio.com
 
 ---
 
