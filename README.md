@@ -33,11 +33,11 @@ Ser referência nacional no desenvolvimento de sistemas inteligentes para o merc
 
 | Membro | Função |
 |--------|--------|
-| Ana Hillary Barbosa Rodrigues Pessoa | Gerente de Projeto |
-| Francisca Mariane Sousa da Silva | Desenvolvedor Backend |
-| José Hadriel Miranda dos Santos| Desenvolvedor Frontend |
-| Vinicius Rielmison Rocha De Sousa| Designer UX/UI |
-| Davi Mendes Medeiros | QA / Testes |
+| Ana Hillary Barbosa Rodrigues Pessoa | Designer |
+| Francisca Mariane Sousa da Silva | Designer |
+| José Hadriel Miranda dos Santos| Desenvolvedor |
+| Vinicius Rielmison Rocha De Sousa|  Desenvolvedor |
+| Davi Mendes Medeiros |  Desenvolvedor |
 
 
 ---
