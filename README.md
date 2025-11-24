@@ -30,7 +30,7 @@ Ser reconhecida como a agência de viagens mais acessível e inovadora do mercad
 
 ---
 
-# 🖥️ Equipe TravelTech Solutions
+# 🖥️ Equipe 
 
 | Membro | Função |
 |--------|--------|
