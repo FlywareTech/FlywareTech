@@ -1,9 +1,6 @@
 
 # 🌍✈️ **Agência FlywareTech**
 
-<p align="center">
-  <img src="LOGO-DA-EMPRESA-AQUI" alt="Logo da Empresa" width="250">
-</p>
 
 ## 📚 Sumário
 
