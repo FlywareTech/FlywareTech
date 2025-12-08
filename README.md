@@ -81,6 +81,6 @@ Ferramenta integrada para conversão de moedas internacionais em tempo real.
 
 <a id="gerenciamento"></a>
 # 📊 Gerenciamento do Projeto
-🔗 **Trello:** https://trello.com/seu-quadro
+🔗 **Trello:** https://trello.com/b/MJrm7zGW/projeto-final-poo-flywaretech
 
 ---
